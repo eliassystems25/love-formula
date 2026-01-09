@@ -301,7 +301,7 @@ Purchase link: (Insert link here)
 
 ---
 
-Contact
+Contact Gary Williams
 
 Email: licensing@eliassystems.uk
 Commercial licensing: (your payment link)
