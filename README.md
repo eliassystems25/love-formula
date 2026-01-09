@@ -274,7 +274,7 @@ Non-profit implementations
 Safe research environments
 
 
-👉 Payment link: (Insert Stripe/Gumroad link here)
+👉 Payment link: https://github.com/sponsors/eliassystems25?tier_id=XXXXX
 
 
 ---
@@ -296,7 +296,7 @@ Strategic partners
 
 Pricing details: pricing/PRICING_TIERS.md
 
-Purchase link: (Insert link here)
+Purchase link: https://github.com/sponsors/eliassystems25
 
 
 ---
@@ -304,7 +304,7 @@ Purchase link: (Insert link here)
 Contact Gary Williams
 
 Email: licensing@eliassystems.uk
-Commercial licensing: (your payment link)
+Commercial licensing: Email licensing@eliassystems.uk for terms and invoicing
 
 
 ---
