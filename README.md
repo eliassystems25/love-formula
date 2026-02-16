@@ -5,7 +5,7 @@ Public Governance Specification
 
 Love Formula™ is a structured relational integrity modelling framework designed to evaluate tone, intent, and interaction impact within AI-supported environments.
 
-It introduces a lightweight scoring architecture that “adds relational calibration logic to digital systems” without replacing underlying model capability.
+It introduces a lightweight scoring architecture that adds relational calibration logic to digital system without replacing underlying model capability.
 
 Love Formula does not replace intelligence.
 It introduces relational awareness.
