@@ -21,7 +21,7 @@ It provides:
 - De-escalation signal detection
 - Impact trace evaluation
 - Ralational-weighted calibration logic
-
+ 
 The framework is model-agnostic and may be integrated into educational, advisory, and regulated environments.
 
 ## What Love Formula™ Provides
