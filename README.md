@@ -7,7 +7,7 @@ Love Formula™ is a structured relational integrity modelling framework designe
 
 It introduces a lightweight scoring architecture that “adds relational calibration logic to digital systems” without replacing underlying model capability.
 
-Love Formula™ does not replace intelligence.
+Love Formula does not replace intelligence.
 It introduces relational awareness.
 
 ## Governance Function
@@ -20,7 +20,7 @@ It provides:
 - Relational density scoring
 - De-escalation signal detection
 - Impact trace evaluation
-- “Relational-weighted calibration logic”
+- Ralational-weighted calibration logic
 
 The framework is model-agnostic and may be integrated into educational, advisory, and regulated environments.
 
